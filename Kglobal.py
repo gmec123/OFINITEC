@@ -29,7 +29,7 @@ def KG2D(x, Enl):
     l2 = 0
     j = 0
     fi = 2
-
+## adaptación coordenadas globables a coordenadas por elementos
 
     while j < a:
         j = j + 1
@@ -69,6 +69,7 @@ def KG2D(x, Enl):
     print("x1")
     print(x1)
     np.set_printoptions(formatter={"float": lambda x:"%0.1f"%(x)})
+    ## ensamble de matrices de rigidez de los elementos
     while e < a:
         i = 0
         K = KE4(x1[e])
