@@ -1,2 +1,2 @@
 # OFINITE
-Element Finite Chilean Open Technologies
+Chilean open technologies of finite element 
