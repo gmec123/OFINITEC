@@ -1,2 +1,2 @@
 # OFINITEC
-Chilean Open Element Finite Technologies
+Chilean Element Finite Open Technologies
