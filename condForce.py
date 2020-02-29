@@ -42,6 +42,7 @@ def force(x, y, nn, X2, Y2, fn, fx, fy, rx, ry, rn, r):
     fr = np.zeros(len(fn22))
     e = 0
 
+
     while e < len(fn):
         fr[2*e] = fx[e]
         fr[2*e + 1] = fy[e]
